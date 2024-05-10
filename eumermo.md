@@ -1,5 +1,5 @@
 - 👋 Sou Roney  
-<!-- 👀 I’m interested in -->
+- 👀 I’m interested in being a front-end developer
 - 🌱 I’m currently learning Java and MySQL
 <!-- 💞️ I’m looking to collaborate on: -->
 <!-- 📫 How to reach me: -->
