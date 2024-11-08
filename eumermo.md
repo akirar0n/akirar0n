@@ -1,6 +1,6 @@
 - 👋 I’m Roney  
 - 👀 I’m interested in being a back-end developer
-- 🌱 I’m currently learning PHP and Python
+- 🌱 I’m currently learning PHP
 - The latest languages ​​I learned are Java, MySQL, HTML and CSS
 <!-- 💞️ I’m looking to collaborate on: -->
 <!-- 📫 How to reach me: -->
