@@ -3,8 +3,8 @@
 
 ### Sobre mim
 
-- 🎓 Cursando Sistemas de Informação na Faculdade UniProjeção.
-- 🌱 Aprendendo mais sobre PHP e JavaScript.
+- Cursando Sistemas de Informação na Faculdade UniProjeção.
+- Aprendendo mais sobre PHP e JavaScript.
 
 ---
 
