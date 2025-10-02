@@ -4,7 +4,7 @@
 ### Sobre mim
 
 - Cursando Sistemas de Informação na Faculdade UniProjeção.
-- Aprendendo mais sobre PHP e JavaScript.
+- Aprendendo mais sobre Python.
 - Último projeto: [Projeto GOVacation](https://github.com/akirar0n/GOVacation) 
 
 ---
