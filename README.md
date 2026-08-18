@@ -78,7 +78,7 @@ Atualmente me preparando para aplicar meus conhecimentos de Azure em projetos pr
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=akirar0n)](https://github.com/stats-organization/github-stats-extended)
 
-[![Linguagens mais usadas](![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=akirar0n&layout=compact))](https://github.com/akirar0n)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=akirar0n&layout=compact)](https://github.com/akirar0n)
 
 ---
 
