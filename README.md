@@ -76,7 +76,7 @@ Atualmente me preparando para aplicar meus conhecimentos de Azure em projetos pr
 
 ## 📊 GitHub Stats
 
-[![Estatísticas do Roney](https://github-readme-stats.vercel.app/api?username=akirar0n&show_icons=true&theme=dracula&hide_border=true)](https://github.com/akirar0n) [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=akirar0n&layout=compact&theme=dracula&hide_border=true)](https://github.com/akirar0n)
+[![Estatísticas do Roney]([![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=akirar0n)](https://github.com/stats-organization/github-stats-extended)) [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=akirar0n&layout=compact&theme=dracula&hide_border=true)](https://github.com/akirar0n)
 
 ---
 
